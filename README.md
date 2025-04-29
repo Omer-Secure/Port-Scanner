@@ -132,8 +132,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Author
 
 **Haim Cohen**
-- LinkedIn: [@haimc](https://www.linkedin.com/in/haimc/)
-- GitHub: [@sk3pp3r](https://github.com/sk3pp3r)
+- LinkedIn: [@omer-secure](https://www.linkedin.com/in/omer-secure/)
+- GitHub: [@omer-secure](https://github.com/omer-secure)
 
 ## 🙏 Acknowledgments
 
@@ -147,5 +147,5 @@ This tool is for educational and authorized testing purposes only. Unauthorized 
 
 ---
 <div align="center">
-Made by Haim Cohen 2025
+Made by Zeroes 2025
 </div>
